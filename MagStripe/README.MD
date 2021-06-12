@@ -1,4 +1,4 @@
-**MagStripe** is a little utility based on the MSCOMM32 component. Using a MagStripe Reader connected to a (real or emulated) serial port, this software can read track1, track2 and track3 magnetic stripes. The bytes of the stream can be viewd in ASCII and HEX format.
+**MagStripe** is a little utility based on the MSCOMM32 component. Using a MagStripe Reader connected to a (real or emulated) serial port, this software can read the magnetic stripe byte sequence. The bytes of the stream can be viewd in ASCII and HEX format.
 Files can be saved in TXT format.
 Coded in 2006.
 

@@ -1,0 +1,69 @@
+Roland D50 Sound Bank
+File Name: D50_11MarketSquare.syx
+
+Patch list:
+
+11 MarketSquareHero
+12 MarketSquareHero
+13 Psycho  Strings
+14 Warm Strings
+15 Deep String Ensmbl
+16 Symphony Strings
+17 Chase String Ensmb
+18 Baroque Strings
+21 Cello
+22 Viola
+23 Solo Violin
+24 Contra Bass
+25 Choir and Strings
+26 Harpsi Strings
+27 Horns and Strings
+28 Pulse Pad
+31 Classical Horn
+32 Fanfare
+33 Tuba
+34 Velo-Brass 2
+35 Stab Brass
+36 Mallet Horns
+37 Slow Brass Sweep
+38 Slappin Brass
+41 Tenor Saxophone
+42 Alto Saxophone
+43 Soprano Saxophone
+44 EPiano n Sopranino
+45 Wild Blow
+46 Squeeze de Sax
+47 Harmonica
+48 Whistling Soldiers
+51 Flute-Piccolo
+52 Oboe
+53 Bassoon
+54 Clarinet
+55 Ocarina
+56 Breathing Pipe
+57 Calliope
+58 Wabi Sabi
+61 Synth Lead 1
+62 Synth Lead 2
+63 Griitttarr 2
+64 5th Lead Synth
+65 Amazing Solo
+66 Synth Lead 3
+67 Gotham Low
+68 Taj Mahal
+71 Ham and Organ
+72 Slow Rotor  2
+73 Slow to Fast Rotor
+74 Good and Old Days
+75 Percussive E-Organ
+76 SlapBass and Organ
+77 Pipe Organ
+78 Weird Organ
+81 Star Peace Chorus
+82 Spacy Voices
+83 Thinful
+84 VOX harmonium
+85 Android
+86 Nuns
+87 Pressure Pad
+88 Digital Sound

@@ -1,0 +1,110 @@
+[Root]
+Most Recent Package=D50_BankEditor
+
+
+[Package|D50_BankEditor|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Programmi\Microsoft Visual Studio\VB98\VB6Works\MidiVB\D50\Pacchetto
+
+[Package|D50_BankEditor|Configure DAO ISAMs]
+Applicable=No
+
+[Package|D50_BankEditor|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|D50_BankEditor|Files Found]
+
+[Package|D50_BankEditor|Files Released]
+
+[Package|D50_BankEditor|Missing Dependency Information]
+
+[Package|D50_BankEditor|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\COMDLG32.OCX=
+
+[Package|D50_BankEditor|Files Added]
+
+[Package|D50_BankEditor|Files Removed]
+
+[Package|D50_BankEditor|Files In Project]
+C:\Documents and Settings\Fulcro.FULCROMOBILE\Desktop\NuovoArchivio\D50.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6IT.DLL=Yes
+C:\WINDOWS\system32\msvbvm50.dll=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGIT.DLL=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\CMCTLIT.DLL=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\stdftit.dll=Yes
+C:\WINDOWS\system32\MSHFGIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|D50_BankEditor|Configure Registry Files]
+Applicable=No
+
+[Package|D50_BankEditor|Configure Remote Servers]
+Applicable=No
+
+[Package|D50_BankEditor|Install Locations]
+C:\Documents and Settings\Fulcro.FULCROMOBILE\Desktop\NuovoArchivio\D50.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6IT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msvbvm50.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\stdftit.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGIT.DLL=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|D50_BankEditor|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Fulcro.FULCROMOBILE\Desktop\NuovoArchivio\D50.exe=No
+
+[Package|D50_BankEditor|Distribution]
+Type=single
+Size=
+Title=Roland D50-D550 Bank Editor
+
+[Package|D50_BankEditor|IconGroups]
+Group0=Roland D50-D550 Bank Editor
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|D50_BankEditor|Roland D50-D550 Bank Editor]
+Icon1=D50.exe
+Title1=Roland D50-D550 Bank Editor
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|D50_BankEditor|Package]
+PackageFolder=C:\Programmi\Microsoft Visual Studio\VB98\VB6Works\MidiVB\D50\Pacchetto
+ProjectFolder=C:\Programmi\Microsoft Visual Studio\VB98\VB6Works\MidiVB\D50
+ServerSideCab=
+File1=C:\Programmi\Microsoft Visual Studio\VB98\VB6Works\MidiVB\D50\Pacchetto\setup.exe
+File2=C:\Programmi\Microsoft Visual Studio\VB98\VB6Works\MidiVB\D50\Pacchetto\Setup.Lst
+File3=C:\Programmi\Microsoft Visual Studio\VB98\VB6Works\MidiVB\D50\Pacchetto\D50.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

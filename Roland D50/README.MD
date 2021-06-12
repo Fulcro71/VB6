@@ -1,4 +1,4 @@
-**Roland D50 Bank/Patch Editor**
+**Roland D50 Bank/Patch Editor** (created in 2008)
 
 This software is intended for loading, modifying and sending patches via MIDI to the worldwide famous Roland D50 synthesizer.
 This synthesizer has 2 types of expansion cards: patch expansion and waveform expansion. Either patch and wave expansions are became a lot expensive because Roland D50, even being a late '80 instrument, is still one of the more wanted instrument of the digital era.
